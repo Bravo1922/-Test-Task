@@ -1,0 +1,9 @@
+To run the script you must write:
+python .\Task\main.py "(path to the source_folder)" "(path to the replica_folder)" (the desirable interval of 
+time the Synchronization happens) "(path to the log_file)"
+
+In my computer the script to start looks like this:
+
+python .\Task\main.py "C:\Users\joaop\OneDrive\Área de Trabalho\Task\Task\source_folder" 
+"C:\Users\joaop\OneDrive\Área de Trabalho\Task\Task\replica_folder"
+30 "C:\Users\joaop\OneDrive\Área de Trabalho\Task\Task\log_file\sync_log.txt"
